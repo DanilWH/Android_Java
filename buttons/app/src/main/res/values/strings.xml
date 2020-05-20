@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">buttons</string>
+    <string name="activity2">activity2</string>
+    <string name="quit">quit</string>
+    <string name="activity3">activity3</string>
+    <string name="activity4">activity4</string>
+</resources>
